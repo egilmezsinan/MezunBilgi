@@ -1,0 +1,12 @@
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe.config
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.pdb
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Form1.resources
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.exe
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.pdb
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.OgrenciPanel.resources
+C:\Users\MONSTER\source\repos\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.OgretmenPanel.resources
